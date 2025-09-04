@@ -1,4 +1,9 @@
-## Hi there 👋
+## Welcome!
+
+I am a passionate network engineer with a great interest in cloud technologies!
+
+[![AWS](https://custom-icon-badges.demolab.com/badge/AWS-%23FF9900.svg?logo=aws&logoColor=white)](#) [![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?logo=google-cloud&logoColor=white)](#) [![Terraform](https://img.shields.io/badge/Terraform-844FBA?logo=terraform&logoColor=fff)](#)
+
 
 <!--
 **RTamborino/RTamborino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
